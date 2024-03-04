@@ -5,8 +5,8 @@
 <h1>Machine Learning Models</h1>
 
 - Decision Tree
-- Random Forest Classifier
 - K-Nearest Neighbor Classifier
+- Random Forest Classifier
 - Perceptron
 
 <h1>Data Preprocessing</h1>
