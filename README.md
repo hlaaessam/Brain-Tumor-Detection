@@ -1,7 +1,7 @@
 
 <h1>Brain Tumor Detection</h1>
-<h3>ML project to classify benign from malignant tumors.                                          
- SUCH AS KNN to detect whether a person has brain tumor or not using a labeled dataset of X-ray brain images of some patients.     </h3>
+<h3>ML project to distinguish benign from malignant tumors.                                          
+ Using a tagged dataset of X-ray brain pictures from some patients, KNN and other algorithms were used to determine whether or not a person had a brain tumor.  </h3>
 </br>
 
 <h1>Machine Learning Models</h1>
